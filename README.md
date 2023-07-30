@@ -1,9 +1,9 @@
 # Android-game
-#toy project
+toy project
 
-#제한시간 순발력 게임
-#Skills : #Android studio #kotlin
-#기간 2023.03.23~3.24
+//제한시간 순발력 게임
+//Skills : #Android studio #kotlin
+//기간 2023.03.23~3.24
 
 <aside>
 💡 초시계를 멈춰 목표 시간에 가장 근접한 사람이 이기는 게임
